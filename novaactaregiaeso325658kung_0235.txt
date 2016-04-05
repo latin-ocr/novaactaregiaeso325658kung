@@ -1,0 +1,54 @@
+223
+
+3
+
+aussi de 13 meme forme. Mais une racine impaire comme ”A est a vo-
+3
+
+lonte reelle ou imaginaire, et partant si n,=o=›n² ou l’equation n⁰oe=n⁰a ἒ,
+trois racines egales‚ deux de ces racines passeront 3 l'imaginaire‚ la troisi-
+eme restant reelle. En general il s‘ensuit de cela, qu’une racine ne peut
+passer du reel a l'imaginaire sans devenir multiple, et si elle est double
+ou quadruple Sco„ ce passage sera inevitable. L'affaire sera la meme a
+l'autre limite b; ce qu’on prouvera de la meme maniere. Nous remarquons
+encore, que cela a necessairement lieu,
+
+ἶ si ηῗαεο, et n3oe<o} si toutefois η·ὀκη”β,
+ουείηῗβεο, et n313<0 (ou a< b).
+
+Maintenant‚ puisque, quand la valeur de v est tres-pres d'une des
+limites a ou b, une des racines de l'equation n¹¹oe=v est necessairement de
+la forme Ρ-Ι-ᾳί, si cette racine n'est toujours de 13 meme forme pour
+toutes les valeurs de v comprises entre ces limites, soit c la plus grande
+valeur de v, pour laquelle a· sera de cette forme, de maniere que dans
+
+Α l'equation n⁰x=c on ait ,τΞωῠ-Ι-ίκ, , et soit «πεπυ-μίμημα dans l’e'quation
+
+νίζετο-μω. 011 aura donc en substituant et developpant n⁰(oe0-†-ix1)=c et
+ο-ᾗ-ωεη”(.το-1-’ἰ;υ-1-ῑι);η“(,το-1-ἰῑ,)-1-α.η“,’(οε,,-Ηῖτὸψ... ou w=u.n2(x„÷ix‚)
+†u².n3(x„-l—i.r‚)-{-...
+
+Mais les co‘efficients de ω, ne contenant que des puissanees entieres
+de ,το-Ι-ίτῑ, sont toutes reductibles a la forme p-l-iq: ainsi l'equation pre-
+cedente deviendra u.[(n'foe)0÷i(n¹ffz),]÷u². [(n⁴2³x)„÷i(n3ae)1]÷...=w. Mais on
+tire de-la par reversion u sous la forme oe;.w—{—s<3,-.w²-{—7i.w³-}-... ou affl-iu,
+(επὶ), les coefficients a„ ssf, «γ,- sce. etant tous de la forme p—st—iq, (savoir
+d‘=“⁰†ix¹=(nlx)(⁰7;‚;(2⁷)zfflss' [34:1304-2‘135 800), et la se'rie (ch) etant conver-
+
+1
+
+gente a volonte. On aura donc u=u0÷i.u„ et par consequent la valeur
+de ,τ sera encore de la meme forme, savoir =x0-l-u0-1—i(x,÷u,)‚ ,zo—ku„ et
+,τρὶ-ιι, etant des quantites reelles. Donc il n'y a aucune valeur de v inter-
+mediaire entre les limites a et b, pour laquelle la racine x ne soit pas de
+cette meme forme. On raisonnera de meme pour d'autres intervalles, d'ou
+l'on prouvera, que toute equation Fx=o, dont les fonctions derivees Ex,
+ΕΠΖ, ὣς. sont reductibles 3 13 forme de binomes imagi11aire8‚ lorsque x est
+de telle forme (=z„÷iz,), a des racines imaginaires, (ou reelles, si χ, se
+trouve =o).
+
+ 
+
+Or c'est le cas des fonctions rationelles, donc toute equation Alge-
+brique a des racines reelles ou imaginaires de la forme binome ‚ro—fit„
+

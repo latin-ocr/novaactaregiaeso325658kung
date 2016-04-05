@@ -1,0 +1,47 @@
+180
+
+ou suivant les formules (6)
+
+χ, = sin c
+312 = cosccos‘y
+ε, = coscsin Ὺ,
+
+01 par substitution de ces expressions dans les for-mules (5)
+
+m, = sinccoskcosi÷cosceosvsink÷coscsinveoslcsini
+(8) . {31¹ =—sincsin 10003141- 0030003Ὑο03Ῐε- coscsin‘ysinksini
+z, =-sincsin i 4- 003031οῪ cosi,
+
+ou en employant les formules (2) et (4)
+
+003 80031310 φ- sin ὃ cos φ = sin c cos lc 0031-1- 003 ccos‘ysin leq-
+-1- 003 csin Ὑ cosksini
+cos 8310 t = - sin csin Ic 003 i÷ cos c cos Ὑ 003 Ic - cos csin vsinlcsin i
+
+1003 δ 003 t cos φ -1- 3111331οφ = —- sin c 31111-1- 003 c sin ‘y cosi.
+
+De 003 dernieres formales on obtiendra par une simple elimination
+de ‘y la formule fondamentale
+
+-003δ3111 teos isin Ic—
+(10) , , , sin σε —sin&cosmcosicosk÷cos3coscsinqocosicosk—
+1-0038003100311 3111 i—sin 83111 φ sin i.
+
+Cette formule nous donne φ en fonction de 10 (100111101300 apparente
+et de l'angle 11010110 (10 1010110 01 dans les (1110011103 qni determinent 10 po-
+sition de l'instrunient; de sorte (1110 100 puisse evaluer φ suivant 10 formule
+
+11001100, 31, 003 memes (1110011103 etant eonnues, on 0 determine aussi δ
+1)οι- (1001103 observations.
+
+Dans la pratique les (1110011103 c et i sont toujours infiniment petites,
+101103 que leurs cosinus pnissent 0110 10011110003 pal· 100110 01 10013 311103
+par 1010 0011031100ἀο01, 01 que 10 produit (10 10013 sinus puisse 0110 negli-
+ge comme infiniment petit d'un ordre superieur. Outre cela en employant
+la formule en question pour 10 determination de 10 latitude il faut suivant
+10 1001110110 (10 Βο3301 placer l'axe de 10101100 (10 1103110100111 dans le 111011-
+dien 00 changer lc en Alc. Supposej de plus que 100 011 une valeur appro-
+
+ximative φ, (10 10 latitude, on pourra employer 10 formule (10) pour cher—
+cher la correction Δφ (10 cp„
+

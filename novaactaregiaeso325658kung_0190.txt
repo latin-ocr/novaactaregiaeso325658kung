@@ -1,0 +1,55 @@
+178
+
+Dans les formules, suivant lesquelles les reductions des observations
+ont ete faites, j'ai employe les notations suivantes:
+
+φ Ξ la latitude de l'observatoire;
+οι Ξ l'ascension droite apparente de l'etoile;
+
+δ Ξ la declinaison . . . . . . . . ;
+
+h Ξ la hauteur
+
+a=l'azi1nuth. . . . . . . . . .;
+
+k Ξ supplement de l'azimuth du pivot septentrional (le l'instrument,
+compte (lu sud ἐι l'ouest;
+
+z Ξ ἴ-ξ-Δρ, i‘ designant l'inclinaison de l'axe de rotation, Δρ la
+
+(lifference des rayons des pivots de l'instrument, tontes les
+deux positives si le pivot au nord est le plus haut et le plus
+gros;
+
+ο Ξ la collimation de l'axe optique de l'instrument.
+
+Cela pose au peut trouver ces formules d'une maniere generale par
+moyen des expressions connues (l'Euler pour la transformation de coor-
+
+donnees
+
+ιυ Ξ ιη’. (cos vcos ψ - sin tsin ψ cos θ) -f-y'. (- sin vcos ψ - cos vsin ψ cos θ) -1-
+1 —†— ε’. sin ψ sin&
+(1)
+
+. ⁴y=m'.(coszsin111÷sinscoswcos6)—{—⁸⁷J'.(-sinzsin1,v†(zoszcoswcosfi) -1-
+-μ ε’.(- cos ψ sin θ)
+
+z = τ’. sin rsin Θ -ξ- y'. cos rsin θ 4- ,τί cos& ‚
+
+dans lesquelles tv, y, z signifient les anciennes coordonne'es, (ε’, μ’, :¹ les
+nouvelles; τ l'angle de l'axe ιε’ avec la trace que fait le nouveau plan des
+my sur l'ancien, ψ l'angle de l'ancien axe (les a: avec la meme trace, θ
+l'inelinaison entre les deux plans des my. Remarquons en outre que O< ψ
+et t<27r, et Ο<Θ<π.
+
+En appelant m„ y„ ε, les coordonnees 1·eotangulai1·es d'une etoile,
+dont l'azimuth est <90⁰ compte du sud i1l'ouest‚ rapportee «ἦ l'horison
+pour plan des „vy on a les formules
+
+¹05. = coshcosa
+(2) . . . . . . . . y1= coshsina
+ει Ξ sinh
+
+et en rapportant l'etoile ἐι l'equateur pour plan des ξ,η on a de meme
+

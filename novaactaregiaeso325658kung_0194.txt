@@ -1,0 +1,62 @@
+182
+
+On a (10110 premierement a determiner rigoureusement une fois pour
+toutes la quantite δο suivant la formule (16), et depuis δ, pour chaque ob-
+servation suivant 13 formule (15). Il 051 (16 [11115 a remarquer que pour les
+coefficients differentiels des formules (13) et (15) on puisse ordinairement
+maintenir les memes valeurs dans toute 13 serie des observations.
+
+Voici enfin, comment se fait la reduction des passages aux fils col-
+lateraux.
+
+En designant parf la distance des fils en arc et en supposaut les ob—
+servations faites successivement avec 11116 lunette des collimations cet c÷f‚
+on a suivant la formule (10) apres les approximatione admises les deux
+
+expressions
+5111 c = -— 005 (15111 t ,1111 -— 5111ι1505ᾳ ψ 005 (1005151111
+5111(ι’ 1]’); — 005 (151111. Al· — 5111δο05φ *γ 005 (1005έ’5111ᾳι
+
+611 designant par t et t 105 deux angles horaires respectifs de l'etoile.
+
+Par soustraction ct apres 11116 simple reduction on en reqoit
+sin {scos (c ÷ ¹f) z {Alta cos ὅ 005 ὲ (t' ÷ t) 4- 005 (15111 ᾳ 5111 ᾗ (ε’-ι- O} 5111 ὲα-ἴ) ,
+d'ot‘l enfin
+
+f
+
+cos δ 5111 φ 5111 [t ΔΓ ὲ (t'- t)] [l -ἧ- Alc. 00ῐὲ (t ÷ t')cosec φ] ’
+
+ 
+
+(17) . . . &iuga-ff)-
+
+Pourtant je me 51115 servi de la sormule approximative
+
+f
+
+Ξ cos& 5111ᾳ1511κι1ὲαᾝ
+(13115 laquelle j'ai determine ιε’-ι (13115 16 denominateur par les passages
+observes memes et t par la relation
+
+ 
+
+ 
+
+(17‘) . . . . . t-t'
+
+tang δ
+
+eost = -ό- .
+tang φΙ
+
+Cependmit, si la declinaison de l'etoile differe peu de 13 latitude, il
+n'est pas permis de mettre Alc=zero dans la formule (17), parceque 16 coef-
+ficient cot{(t÷t‘)coseccp, approximativement e'gal a cot{(z÷z‘)cot‹p, puisse
+alors faire sensible l'effet de Alc.
+
+Apres cette introduction je vais enfin donner les observations et les
+equations (le condition en (lerivees, sur lesquelles la determination de Δψ
+est fondee. Auparavant j'ai pourtant a faire mention des positions moyen-
+nes des 6101165 employees.
+

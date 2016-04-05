@@ -1,0 +1,43 @@
+228
+
+tiennent a chaque branche. De-la il est clair que chaque equation alge—
+brique de la forme v⁰x=o a ν racines reelles ou imaginaires (de la forme
+binome imaginaire oe=oe„-†-ioe1‚ 2⁸⁴¹ etant=-1); et meme pour trouver celles-
+ci, il faut seulement poursuivre assez loin chaque branche de la courbe
+d'intersection des surfaces z=n⁰xy et ⁴=r⁰xy, si n⁰(x—{—iy)=n⁰xy-{—i.r⁰xy.
+
+Pour cet effet il saut etudier plus specialement ees branches, dont
+une propriete fondamentale est, comme nous avons demontre, de s'appro-
+cher toujours au plan oey jusque a le couper dans un point, dont les coor-
+dinees cc et y sournissent une racine imaginaire ζωή-ἐμ.
+
+Comme chaque brancho a ses deux bouts infinis est perpendiculaire
+au plan acy, et a chaque point fini est y plus ou moins inclinee, il y aura
+un point, ou l'inclinaison est la plus petite; et si ce point est encore bien
+
+eloigne du plan my, l'approche des autres points et celle de la branche a
+ce plan sera plus rapide.
+
+Or si l'inclinaison dc la courbe s au plan sy est --η, 011 a (sec. η)2
+=ds2ulo²=1÷3<p²÷q²>= le plus grand ou le petit, lorsque p²÷q² ou 2⁰¹2÷r12
+est le plus grand (εω) 011 16 plus petit.
+
+Donc il faut qu'on fasse ὃ ((νίγΒ-ι-(νῃῗ) = o ou r¹3r¹-{-r,8r.=o, ou
+r¹(r¹¹3x÷r,'3y)†23(7=‚¹3.r-1—7·[,3y)=o ou, puisque &xz3y=2⁴¹÷r2:r,-r¹‚ (=q÷p:q-p),
+(7¹¹r'¹÷rst⁴¹¹)(r¹†r,)—†—(r'r,¹÷r¹r¹,)(r1-r¹)=0, c'est ἐι dire
+
+r¹¹(r'‘2÷r,r¹) -†— r, ¹(2r1r'4-r1‘2—rffl) -mqlrl (γι-ν’) = o .
+
+Cette equation et 72⁰sy=r⁰xy determinent ensemble les coordinnaeies
+‚r et y du point de la plus petite inclinaison (²70)· L⁷ayant donc ainsi trou-
+vee, on aura dzzdff=T⁷7>qu et, puisque d02=dx²÷cly², aussi ἀπεοῖπ>Τηο
+et d::dy>T›70, d'ou l'approche au plan xy sera rapide, si Try⁰ (et partant Τη)
+trouve un peu grande. Mais (lans des cas ordinaires on peut en juger plus
+
+facilement par la marche meme des valeurs de o·,‘2-{-r''?‚ si celles-ci restent
+un peu considerables.
+
+a Lund, 16 <26 Mars 1856.
+
+ 
+
